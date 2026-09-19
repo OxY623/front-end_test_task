@@ -1,7 +1,7 @@
 // @ts-expect-error
 import "the-new-css-reset";
 import { packages as data, type Package } from "./data";
-import "./main.scss";
+import "./styles.scss";
 
 // Variables
 const packageButtons =
