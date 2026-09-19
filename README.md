@@ -58,7 +58,7 @@ npm run preview
 │       └── img_pineapple_oolong.jpg
 └── src/
     ├── main.ts
-    └── styles.scss
+    └── main.scss
 ```
 
 ## Посмотреть проект
